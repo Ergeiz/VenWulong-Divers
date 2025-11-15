@@ -39,7 +39,7 @@ Même si les utilisateurs concernés ne lançaient pas *activement* GWToolbox++ 
 
 Voici les solutions et pistes de réflexion qui ressortent des recherches :
 
-  * **Changer de Multi-Launcher :** La solution la plus évidente, recommandée par l'équipe de GWToolbox++, est de **migrer de GWMultiLaunch vers [GW Launcher](https://www.google.com/search?q=https://github.com/dane-light/gw-launcher)** (parfois appelé "dane-light's launcher"). Ce dernier semble être le standard actuel de la communauté pour le multi-boxing et est conçu pour être compatible avec Toolbox.
+  * **Changer de Multi-Launcher :** La solution la plus évidente, recommandée par l'équipe de GWToolbox++, est de **migrer de GWMultiLaunch vers [GW Launcher](https://github.com/gwdevhub/gwlauncher)** (parfois appelé "dane-light's launcher"). Ce dernier semble être le standard actuel de la communauté pour le multi-boxing et est conçu pour être compatible avec Toolbox.
   * **Vérifier les "Overlays" :** Des problèmes d'Alt+Tab et de clavier dans Guild Wars sont aussi fréquemment causés par des superpositions (overlays) d'autres applications. Le plus souvent cité est **Discord**. Il est conseillé de désactiver l'overlay Discord (ou Nvidia, Steam, etc.) pour voir si cela résout le problème.
   * **Paramètres Windows :** Des réglages Windows comme la "Game Bar" (Barre de jeu) ou les "Optimisations du mode plein écran" peuvent parfois interférer avec la gestion des fenêtres de jeux plus anciens. Tenter de les désactiver pour l'exécutable `Gw.exe` peut aider.
 
