@@ -173,9 +173,9 @@ Réponse à donner en Mp à @Sky [TS SOSI] avec screen du lieu a l'appui</br>
 
 ### Lieu 16
 
-- [lieu]
+- Terrasses de Wehhan
 
-- [Screenshot]
+![](./Chasse_aux_lieux/Screenshots/terrasses_de_wehhan.png) 
 
 [Top](#bulb-les-lieux-trouv%C3%A9s-)
 
