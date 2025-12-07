@@ -57,7 +57,7 @@ Réponse à donner en Mp à @Sky [TS SOSI] avec screen du lieu a l'appui</br>
 
 - [Screenshot]
 
-[Top]([#world_map-les-lieux-%C3%A0-rechercher-)
+[Top](#world_map-les-lieux-%C3%A0-rechercher-)
 
 ### Lieu 2
 
