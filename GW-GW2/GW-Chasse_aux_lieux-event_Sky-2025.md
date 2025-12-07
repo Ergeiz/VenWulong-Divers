@@ -1,5 +1,7 @@
 # 📸 𝗟𝗮 𝗖𝗵𝗮𝘀𝘀𝗲 𝗮𝘂𝘅 𝗟𝗶𝗲𝘂𝘅.
 
+## :scroll: Intitulé
+
 <p align="center">
 <img width="600" height="900" alt="image" src="./Chasse_aux_lieux/chasse_aux_lieux-intitule.png" />
 </p>
@@ -209,7 +211,7 @@ Réponse à donner en Mp à @Sky [TS SOSI] avec screen du lieu a l'appui</br>
 
 [Top](#bulb-les-lieux-trouv%C3%A9s-)
 
-### Lieux 21
+### Lieu 21
 
 - [lieu]
 
