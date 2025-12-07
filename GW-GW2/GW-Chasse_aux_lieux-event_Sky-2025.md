@@ -46,134 +46,168 @@ Réponse à donner en Mp à @Sky [TS SOSI] avec screen du lieu a l'appui</br>
 
 ### Liste
 
-Lieu 1 - Lieu 2 - Lieu 3 - Lieu 4 - Lieu 5 - Lieu 6 - Lieu 7 - Lieu 8 - Lieu 9 - Lieu 10 - Lieu 11  
-Lieu 13 - Lieu 13 - Lieu 14 - Lieu 15 - Lieu 16 - Lieu 17 - Lieu 18 - Lieu 19 - Lieu 20 - Lieu 21
+[Lieu 1](#lieu-1) - [Lieu 2](#lieu-2) - [Lieu 3](#lieu-3) - [Lieu 4](#lieu-4) - [Lieu 5](#lieu-5) - [Lieu 6](#lieu-6) - [Lieu 7](#lieu-7) - [Lieu 8](#lieu-8) - [Lieu 9](#lieu-9) - [Lieu 10](#lieu-10) - [Lieu 11](#lieu-11)    
+[Lieu 12](#lieu-12) - [Lieu 13](#lieu-13) - [Lieu 14](#lieu-14) - [Lieu 15](#lieu-15) - [Lieu 16](#lieu-16) - [Lieu 17](#lieu-17) - [Lieu 18](#lieu-18) - [Lieu 19](#lieu-19) - [Lieu 20](#lieu-20) - [Lieu 21](#lieu-21)
 
-### Lieux 1
-
-- [lieu]
-
-- [Screenshot]
-
-[Top](#liste)
-
-### Lieux 2
+### Lieu 1
 
 - [lieu]
 
 - [Screenshot]
 
-[Top](#liste)
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
 
-### Lieux 3
-
-- [lieu]
-
-- [Screenshot]
-
-[Top](#liste)
-
-### Lieux 4
+### Lieu 2
 
 - [lieu]
 
 - [Screenshot]
 
-### Lieux 5
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
+
+### Lieu 3
 
 - [lieu]
 
 - [Screenshot]
 
-### Lieux 6
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
+
+### Lieu 4
 
 - [lieu]
 
 - [Screenshot]
 
-### Lieux 7
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
+
+### Lieu 5
 
 - [lieu]
 
 - [Screenshot]
 
-### Lieux 8
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
+
+### Lieu 6
 
 - [lieu]
 
 - [Screenshot]
 
-### Lieux 9
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
+
+### Lieu 7
 
 - [lieu]
 
 - [Screenshot]
+
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
+
+### Lieu 8
+
+- [lieu]
+
+- [Screenshot]
+
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
+
+### Lieu 9
+
+- [lieu]
+
+- [Screenshot]
+
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
   
-### Lieux 10
+### Lieu 10
 
 - [lieu]
 
 - [Screenshot]
 
-### Lieux 11
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
+
+### Lieu 11
 
 - [lieu]
 
 - [Screenshot]
 
-### Lieux 12
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
+
+### Lieu 12
 
 - [lieu]
 
 - [Screenshot]
 
-### Lieux 13
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
+
+### Lieu 13
 
 - [lieu]
 
 - [Screenshot]
 
-### Lieux 14
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
+
+### Lieu 14
 
 - [lieu]
 
 - [Screenshot]
 
-### Lieux 15
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
+
+### Lieu 15
 
 - [lieu]
 
 - [Screenshot]
 
-### Lieux 16
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
+
+### Lieu 16
 
 - [lieu]
 
 - [Screenshot]
 
-### Lieux 17
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
+
+### Lieu 17
 
 - [lieu]
 
 - [Screenshot]
 
-### Lieux 18
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
+
+### Lieu 18
 
 - [lieu]
 
 - [Screenshot]
 
-### Lieux 19
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
+
+### Lieu 19
 
 - [lieu]
 
 - [Screenshot]
 
-### Lieux 20
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
+
+### Lieu 20
 
 - [lieu]
 
 - [Screenshot]
+
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
 
 ### Lieux 21
 
@@ -181,5 +215,5 @@ Lieu 13 - Lieu 13 - Lieu 14 - Lieu 15 - Lieu 16 - Lieu 17 - Lieu 18 - Lieu 19 - 
 
 - [Screenshot]
 
-[Top](#liste)
+[Top](#bulb-les-lieux-trouv%C3%A9s-)
 
