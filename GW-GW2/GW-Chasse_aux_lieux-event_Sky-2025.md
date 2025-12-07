@@ -36,7 +36,7 @@ Réponse à donner en Mp à @Sky [TS SOSI] avec screen du lieu a l'appui</br>
 |:---:|:---:|:---:|
 | ![](./Chasse_aux_lieux/lieu_n15.jpg) | ![](./Chasse_aux_lieux/lieu_n14.jpg) | ![](./Chasse_aux_lieux/lieu_n13.jpg) |
 
-|  16  |  17  |  18  |
+|  [:white_check_mark: Lieu 16](#lieu-16)  |  17  |  18  |
 |:---:|:---:|:---:|
 | ![](./Chasse_aux_lieux/lieu_n16.jpg) | ![](./Chasse_aux_lieux/lieu_n17.jpg) | ![](./Chasse_aux_lieux/lieu_n18.jpg) |
 
@@ -49,7 +49,7 @@ Réponse à donner en Mp à @Sky [TS SOSI] avec screen du lieu a l'appui</br>
 ### Liste
 
 [Lieu 1](#lieu-1) - [Lieu 2](#lieu-2) - [Lieu 3](#lieu-3) - [Lieu 4](#lieu-4) - [Lieu 5](#lieu-5) - [Lieu 6](#lieu-6) - [Lieu 7](#lieu-7) - [Lieu 8](#lieu-8) - [Lieu 9](#lieu-9) - [Lieu 10](#lieu-10) - [Lieu 11](#lieu-11)    
-[Lieu 12](#lieu-12) - [Lieu 13](#lieu-13) - [Lieu 14](#lieu-14) - [Lieu 15](#lieu-15) - [Lieu 16](#lieu-16) - [Lieu 17](#lieu-17) - [Lieu 18](#lieu-18) - [Lieu 19](#lieu-19) - [Lieu 20](#lieu-20) - [Lieu 21](#lieu-21)
+[Lieu 12](#lieu-12) - [Lieu 13](#lieu-13) - [Lieu 14](#lieu-14) - [Lieu 15](#lieu-15) - [:white_check_mark: Lieu 16](#lieu-16) - [Lieu 17](#lieu-17) - [Lieu 18](#lieu-18) - [Lieu 19](#lieu-19) - [Lieu 20](#lieu-20) - [Lieu 21](#lieu-21)
 
 ### Lieu 1
 
@@ -57,7 +57,7 @@ Réponse à donner en Mp à @Sky [TS SOSI] avec screen du lieu a l'appui</br>
 
 - [Screenshot]
 
-[Top](#bulb-les-lieux-trouv%C3%A9s-)
+[Top]([#world_map-les-lieux-%C3%A0-rechercher-))
 
 ### Lieu 2
 
@@ -175,7 +175,7 @@ Réponse à donner en Mp à @Sky [TS SOSI] avec screen du lieu a l'appui</br>
 
 - Terrasses de Wehhan
 
-![](./Chasse_aux_lieux/Screenshots/terrasses_de_wehhan.png) 
+![](./Chasse_aux_lieux/Screenshots/16-terrasses_de_wehhan.png) 
 
 [Top](#bulb-les-lieux-trouv%C3%A9s-)
 
