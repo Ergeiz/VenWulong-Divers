@@ -16,7 +16,7 @@ Réponse à donner en Mp à @Sky [TS SOSI] avec screen du lieu a l'appui</br>
 
 ## :world_map: Les lieux à rechercher !
 
-|  1  |  2  |  3  |
+|  1  |  2  |  [:white_check_mark: 3](#lieu-3)  |
 |:---:|:---:|:---:|
 | ![](./Chasse_aux_lieux/lieu_n1.jpg) | ![](./Chasse_aux_lieux/lieu_n2.jpg) | ![](./Chasse_aux_lieux/lieu_n6.jpg) |
 
@@ -28,28 +28,24 @@ Réponse à donner en Mp à @Sky [TS SOSI] avec screen du lieu a l'appui</br>
 |:---:|:---:|:---:|
 | ![](./Chasse_aux_lieux/lieu_n9.jpg) | ![](./Chasse_aux_lieux/lieu_n4.jpg) | ![](./Chasse_aux_lieux/lieu_n7.jpg) |
 
-|  [:white_check_mark: Lieu 10](#lieu-10)  |  11  |  12  |
+|  [:white_check_mark: 10](#lieu-10)  |  11  |  12  |
 |:---:|:---:|:---:|
 | ![](./Chasse_aux_lieux/lieu_n10.jpg) | ![](./Chasse_aux_lieux/lieu_n11.jpg) | ![](./Chasse_aux_lieux/lieu_n12.jpg) |
 
-|  13  |  [:white_check_mark: Lieu 14](#lieu-14)  |  15  |
+|  13  |  [:white_check_mark: 14](#lieu-14)  |  15  |
 |:---:|:---:|:---:|
 | ![](./Chasse_aux_lieux/lieu_n15.jpg) | ![](./Chasse_aux_lieux/lieu_n14.jpg) | ![](./Chasse_aux_lieux/lieu_n13.jpg) |
 
-|  [:white_check_mark: Lieu 16](#lieu-16)  |  17  |  18  |
+|  [:white_check_mark: 16](#lieu-16)  |  17  |  [:white_check_mark: 18](#lieu-18)  |
 |:---:|:---:|:---:|
 | ![](./Chasse_aux_lieux/lieu_n16.jpg) | ![](./Chasse_aux_lieux/lieu_n17.jpg) | ![](./Chasse_aux_lieux/lieu_n18.jpg) |
 
-|  19  |  20  |  21  |
+|  19  |  [:white_check_mark: 20](#lieu-20)  |  21  |
 |:---:|:---:|:---:|
 | ![](./Chasse_aux_lieux/lieu_n19.jpg) | ![](./Chasse_aux_lieux/lieu_n20.jpg) | ![](./Chasse_aux_lieux/lieu_n21.jpg) |
 
 ## :bulb: Les lieux trouvés !
 
-### Liste
-
-[Lieu 1](#lieu-1) - [Lieu 2](#lieu-2) - [Lieu 3](#lieu-3) - [Lieu 4](#lieu-4) - [Lieu 5](#lieu-5) - [Lieu 6](#lieu-6) - [Lieu 7](#lieu-7) - [Lieu 8](#lieu-8) - [Lieu 9](#lieu-9) - [Lieu 10](#lieu-10) - [Lieu 11](#lieu-11)    
-[Lieu 12](#lieu-12) - [Lieu 13](#lieu-13) - [Lieu 14](#lieu-14) - [Lieu 15](#lieu-15) - [:white_check_mark: Lieu 16](#lieu-16) - [Lieu 17](#lieu-17) - [Lieu 18](#lieu-18) - [Lieu 19](#lieu-19) - [Lieu 20](#lieu-20) - [Lieu 21](#lieu-21)
 
 ### Lieu 1
 
@@ -69,9 +65,9 @@ Réponse à donner en Mp à @Sky [TS SOSI] avec screen du lieu a l'appui</br>
 
 ### Lieu 3
 
-- [lieu]
+- Jahai Crépusculaire
 
-- [Screenshot]
+![](./Chasse_aux_lieux/Screenshots/3-jahai_crepusculaire.png)
 
 [Top](#bulb-les-lieux-trouv%C3%A9s-)
 
@@ -189,9 +185,9 @@ Réponse à donner en Mp à @Sky [TS SOSI] avec screen du lieu a l'appui</br>
 
 ### Lieu 18
 
-- [lieu]
+- Vallée de Vehtendi
 
-- [Screenshot]
+![](./Chasse_aux_lieux/Screenshots/18-valle_de_vehtendi.png)
 
 [Top](#bulb-les-lieux-trouv%C3%A9s-)
 
@@ -205,9 +201,9 @@ Réponse à donner en Mp à @Sky [TS SOSI] avec screen du lieu a l'appui</br>
 
 ### Lieu 20
 
-- [lieu]
+- Cité cachée d'Ahdashim
 
-- [Screenshot]
+![](./Chasse_aux_lieux/Screenshots/20-cite_cache_d_ahdashim.png)
 
 [Top](#bulb-les-lieux-trouv%C3%A9s-)
 
