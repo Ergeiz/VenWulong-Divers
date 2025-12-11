@@ -28,11 +28,11 @@ Réponse à donner en Mp à @Sky [TS SOSI] avec screen du lieu a l'appui</br>
 |:---:|:---:|:---:|
 | ![](./Chasse_aux_lieux/lieu_n9.jpg) | ![](./Chasse_aux_lieux/lieu_n4.jpg) | ![](./Chasse_aux_lieux/lieu_n7.jpg) |
 
-|  10  |  11  |  12  |
+|  [:white_check_mark: Lieu 10](#lieu-10)  |  11  |  12  |
 |:---:|:---:|:---:|
 | ![](./Chasse_aux_lieux/lieu_n10.jpg) | ![](./Chasse_aux_lieux/lieu_n11.jpg) | ![](./Chasse_aux_lieux/lieu_n12.jpg) |
 
-|  13  |  14  |  15  |
+|  13  |  [:white_check_mark: Lieu 14](#lieu-14)  |  15  |
 |:---:|:---:|:---:|
 | ![](./Chasse_aux_lieux/lieu_n15.jpg) | ![](./Chasse_aux_lieux/lieu_n14.jpg) | ![](./Chasse_aux_lieux/lieu_n13.jpg) |
 
@@ -125,9 +125,9 @@ Réponse à donner en Mp à @Sky [TS SOSI] avec screen du lieu a l'appui</br>
   
 ### Lieu 10
 
-- [lieu]
+- La mer aride
 
-- [Screenshot]
+![](./Chasse_aux_lieux/Screenshots/10-la_mer_aride.png)
 
 [Top](#bulb-les-lieux-trouv%C3%A9s-)
 
@@ -157,9 +157,9 @@ Réponse à donner en Mp à @Sky [TS SOSI] avec screen du lieu a l'appui</br>
 
 ### Lieu 14
 
-- [lieu]
+- Port Briska
 
-- [Screenshot]
+![](./Chasse_aux_lieux/Screenshots/14-port_briska.png)
 
 [Top](#bulb-les-lieux-trouv%C3%A9s-)
 
